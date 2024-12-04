@@ -1,9 +1,0 @@
-apiVersion: source.toolkit.fluxcd.io/v1beta2
-kind: HelmRepository
-metadata:
-  name: influxdb-helm-repo
-  namespace: influxdb
-spec:
-  interval: 1m
-  url: https://github.com/saisricharannoupada/helm-repo/tree/main/helm/influxdb
-  
