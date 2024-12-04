@@ -5,5 +5,5 @@ metadata:
   namespace: influxdb
 spec:
   interval: 1m
-  url: https://github.com/saisricharannoupada/helm-repo/helm/influxdb
+  url: https://github.com/saisricharannoupada/helm-repo/tree/main/helm/influxdb
   
