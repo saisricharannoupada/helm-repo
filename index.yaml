@@ -16,6 +16,6 @@ entries:
     name: influxdb2
     type: application
     urls:
-    - https://saisricharannoupada.github.io/helm-repo/influxdb/influxdb2-2.1.2.tgz
+    - https://saisricharannoupada.github.io/helm-repo/influxdb2-2.1.2.tgz
     version: 2.1.2
 generated: "2024-12-04T21:36:21.192832+05:30"
