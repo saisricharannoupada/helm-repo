@@ -5,4 +5,4 @@ metadata:
   namespace: influxdb
 spec:
   interval: 1m
-  url: https://github.com/saisricharannoupada/helm-repo/tree/chart/influxdb
+  url: oci://litmus.azurecr.io/helm/
