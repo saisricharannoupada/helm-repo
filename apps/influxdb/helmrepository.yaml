@@ -6,5 +6,6 @@ metadata:
 spec:
   interval: 1m
   url: oci://litmus.azurecr.io/helm/
+  type: oci
   secretRef:
     name: influxdb-acr-secret
